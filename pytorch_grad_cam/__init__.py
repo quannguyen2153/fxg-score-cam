@@ -1,3 +1,4 @@
+from pytorch_grad_cam.fxg_score_cam import FXGScoreCAM
 from pytorch_grad_cam.grad_cam import GradCAM
 from pytorch_grad_cam.finer_cam import FinerCAM
 from pytorch_grad_cam.shapley_cam import ShapleyCAM
